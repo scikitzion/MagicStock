@@ -1,7 +1,6 @@
-[TOC]
 
 
 
-#1.MagicStock
+##1.MagicStock
 
-#2.show time
+##2.show time
